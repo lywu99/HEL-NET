@@ -1,5 +1,5 @@
 # HEL-NET
-Official Pytorch Implementation of : Heterogeneous Ensemble Learning for Diabetic Retinopathy Multi-Lesion Segmentation 
+Official Pytorch Implementation of :  Diabetic Retinopathy Multi-Lesion Segmentation 
 # Requirements
   Inatall pytorch =1.9.3, torchvision, numpy, opencv-python, tqdm, protobuf,optparse
   Install Mamba: pip install causal-conv1d=1.0.0, pip install mamba-ssm
