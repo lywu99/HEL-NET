@@ -216,9 +216,4 @@ if __name__ == '__main__':
 
     vis_images = eval_model(model, eval_loader)
 
-    # end_time = time.time()
-    # inrefence_time = end_time - start_time
-    # fps = 27 / (end_time - start_time)
-    # print(f"实际推理时间: {(end_time - start_time)/27:.6f} 秒")
-    # print(f"实际FPS: {fps:.2f} 帧每秒")
 
