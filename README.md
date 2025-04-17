@@ -1,5 +1,5 @@
 # HEL-NET
-Official Pytorch Implementation of :  Diabetic Retinopathy Multi-Lesion Segmentation 
+Official Pytorch Implementation of :  HEL-Net: Heterogeneous Ensemble Learning for Comprehensive Diabetic Retinopathy Multi-Lesion Segmentation via Mamba-UNet 
 # Requirements
   Inatall pytorch =1.9.3, torchvision, numpy, opencv-python, tqdm, protobuf,optparse
   Install Mamba: pip install causal-conv1d=1.0.0, pip install mamba-ssm
@@ -45,3 +45,13 @@ Run:
 ```
 
 # 4. Citation and contact
+If you find this repository useful, please consider citing this paper:
+{
+@article{wu2025helnet,
+  title={HEL-Net: Heterogeneous Ensemble Learning for Comprehensive Diabetic Retinopathy Multi-Lesion Segmentation via Mamba-UNet},
+  author={Wu, Xia and Song, Lan},
+  journal={The Visual Computer},
+  year={2025},
+  publisher={Springer}
+}
+}
