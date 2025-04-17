@@ -44,7 +44,7 @@ Run:
    python eval.py 
 ```
 
-# 4. Citation and contact
+# 4. Citation
 If you find this repository useful, please consider citing this paper:
 
 ```
