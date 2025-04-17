@@ -47,11 +47,12 @@ Run:
 # 4. Citation and contact
 If you find this repository useful, please consider citing this paper:
 {
+
 @article{wu2025helnet,
-  title={HEL-Net: Heterogeneous Ensemble Learning for Comprehensive Diabetic Retinopathy Multi-Lesion Segmentation via Mamba-UNet},
-  author={Wu, Xia and Song, Lan},
-  journal={The Visual Computer},
-  year={2025},
-  publisher={Springer}
+    title={HEL-Net: Heterogeneous Ensemble Learning for Comprehensive Diabetic Retinopathy Multi-Lesion Segmentation via Mamba-UNet},
+    author={Wu, Xia and Song, Lan},
+    journal={The Visual Computer},
+    year={2025},
+   publisher={Springer}
 }
 }
